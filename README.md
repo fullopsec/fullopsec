@@ -1,5 +1,5 @@
 # :closed_lock_with_key: Full Opsec
-**`Digital Craftsman (Operational security/Cybersecurity/Creator/Pentester)`**
+**`Digital Security (Operational security/Cybersecurity/Creator/Pentester)`**
 
 
 
