@@ -20,7 +20,7 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           max_videos: 10
           base_url: https://ytcards.demolab.com/
-          card_width: 150
+          card_width: 180
           background_color: "#0d1117"
           title_color: "#ffffff"
           stats_color: "#dedede"
