@@ -4,13 +4,13 @@
 
 I'm a passionate cybersecurity and operational security enthusiast, constantly exploring new technologies and ideas to improve my knowledge and skills. On my YouTube channel, [@fullopsec](https://www.youtube.com/@fullopsec) I share my experiences using open source software, securing my home infrastructure, and experimenting with AI projects. I believe in teaching others, and enjoy sharing my knowledge through videos and guides. My focus on operational security drives me to constantly learn and implement new practices, ensuring the safety and privacy of my own data as well as that of my viewers.
 
-
+<!---  
    <p align="left">
       <a href="https://www.youtube.com/@fullopsec?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC4LKtHItV5zgbAlHze5pA4w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@fullopsec">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC4LKtHItV5zgbAlHze5pA4w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-<!---      <a href="https://github.com/fullopsec?tab=followers">
+    <a href="https://github.com/fullopsec?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fullopsec?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/fullopsec?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fullopsec?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
