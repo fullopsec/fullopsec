@@ -2,7 +2,7 @@
 **`Digital Security (Operational security/Cybersecurity/Creator/Pentester)`**
 
 
-As a cybersecurity and operational security specialist, with a passion for exploring technologies and concepts to improve my privacy, I actively engage in sharing my creations and ideas on my YouTube channel under the handle [@fullopsec](https;//www.youtube.com/@fullopsec). Through my content on utilizing open source tools and adapting the security of my home labs while delving into AI experimentation projects; I am dedicated to sharing and providing ideas to implement open source privacy preserving services. 
+As a cybersecurity and operational security specialist, with a passion for exploring technologies and concepts to improve my privacy, I actively engage in sharing my creations and ideas on my YouTube channel under the handle [@fullopsec](https://www.youtube.com/@fullopsec). Through my content on utilizing open source tools and adapting the security of my home labs while delving into AI experimentation projects; I am dedicated to sharing and providing ideas to implement open source privacy preserving services. 
 
 
    <p align="left">
